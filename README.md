@@ -49,12 +49,13 @@ To use the application, simply enter a link URL in the provided text box. Univer
 
 If you'd like to contribute to this project, please follow these guidelines:
 
-Fork the repository and create a new branch for your feature or bug fix.
-Make your changes and commit them with a descriptive message.
-Push your changes to your forked repository.
-Create a pull request to merge your changes into the main repository.
+- Fork the repository and create a new branch for your feature or bug fix.
+- Make your changes and commit them with a descriptive message.
+- Push your changes to your forked repository.
+- Create a pull request to merge your changes into the main repository.
 
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
