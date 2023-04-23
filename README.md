@@ -1,5 +1,7 @@
 # Universal-Summarizer
 
+![ezgif com-optimize](https://user-images.githubusercontent.com/22991408/233871485-117958bc-5664-45c9-8f48-4789456eb375.gif)
+
 Universal Summarizer is a powerful AI tool that allows users to input a URL and receive a summary of the content or extract important data from the linked page. This application is built using the Vite framework, React, JavaScript, Redux Toolkit, OpenAI API, and RapidAPI Studio.
 
 ## Table of Contents
