@@ -32,7 +32,7 @@ These instructions will help you set up the project on your local machine for de
 ### Installation
 
 1. Clone the repository
-2. Change to the project directory : cd ai-universal-link-summarizer
+2. Change to the project directory : cd ...
 3. Install dependencies : npm install
 4. Create a `.env` file in the root directory of the project and add your Rapid API Keys:   REACT_APP_RAPID_API_KEY=your_rapid_api_key
 5. Start the development server : npm run dev
