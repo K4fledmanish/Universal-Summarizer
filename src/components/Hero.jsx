@@ -24,7 +24,7 @@ const Hero = () => {
         <span className='blue-gradient '>Artificial Intelligence</span>
       </h1>
       <h2 className='desc'>
-        An open-source AI Blog/Article summarizer for easy reading.
+       An open-source AI-powered blog and article summarizer for easy reading.
       </h2>
     </header>
   );
