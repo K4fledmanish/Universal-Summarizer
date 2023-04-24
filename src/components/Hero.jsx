@@ -15,7 +15,7 @@ const Hero = () => {
           }
           className='black_btn'
         >
-          Source Code
+          View on GitHub
         </button>
       </nav>
 
