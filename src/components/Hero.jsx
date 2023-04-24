@@ -20,11 +20,11 @@ const Hero = () => {
       </nav>
 
       <h1 className='head_text'>
-        Summarize using<br className='max-md:hidden' />
+        Summarize using <br className='max-md:hidden' />
         <span className='blue-gradient '>Artificial Intelligence</span>
       </h1>
       <h2 className='desc'>
-        An open-source universal summarizer for easy reading.
+        An open-source AI Blog/Article summarizer for easy reading.
       </h2>
     </header>
   );
