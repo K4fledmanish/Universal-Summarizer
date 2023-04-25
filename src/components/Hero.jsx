@@ -1,3 +1,9 @@
+/**
+ * A React component that displays the hero section of the website.
+ * The hero section includes a navigation bar with a logo and a button to view the project on GitHub.
+ * It also includes a title and a description of the project.
+ * @returns A React component that displays the hero section of the website.
+ */
 import React from "react";
 
 import { logo } from "../assets";
