@@ -28,8 +28,9 @@ These instructions will help you set up the project on your local machine for de
 
 - Node.js (>=12.0.0)
 - npm (>=7.0.0)
-- A Rapid API key
-- OpenAI Knowledge
+- A Rapid API Studio
+- Article Extractor API
+
 
 ### Installation
 
