@@ -1,3 +1,7 @@
+/**
+ * The main component of the application. Renders the Hero and Demo components.
+ * @returns {JSX.Element} - The main component of the application.
+ */
 import Hero from "./components/Hero";
 import Demo from "./components/Demo";
 
